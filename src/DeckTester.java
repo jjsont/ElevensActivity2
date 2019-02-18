@@ -1,6 +1,8 @@
 /**
  * This is a class that tests the Deck class.
  */
+
+//Author: Jason Tan and Ben Wu
 public class DeckTester {
 
     /**

@@ -4,6 +4,8 @@
 import java.util.List;
 import java.util.ArrayList;
 
+//Author: Jason Tan and Ben Wu
+
 /**
  * The Deck class represents a shuffled deck of cards.
  * It provides several operations including
